@@ -70,10 +70,11 @@ VUE_PROJET
 ![VUE_PROJET](Vue_projet.jpeg)
 
 VUE_DE_COMMANDE
-![VUE_DE COMMANDE](Vue de commande.jpeg)
+![VUE_DE COMMANDE](Vue_de_commande.jpeg)
 
 VUE_DE_CONTROL
-![VUE_DE CONTROL](Vue de control.jpeg)
+![VUE_DE CONTROL](Vue.jpeg)
+
 ---
 
 ## 📊 Domaine d’application
