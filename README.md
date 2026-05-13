@@ -67,8 +67,13 @@ Le système est organisé en plusieurs modules :
 ## 📸 Aperçu du système
 
 VUE_PROJET
-!(Vue_projet.png)
+![VUE_PROJET](Vue_projet.jpeg)
 
+VUE_DE_COMMANDE
+![VUE_DE COMMANDE](Vue de commande.jpeg)
+
+VUE_DE_CONTROL
+![VUE_DE CONTROL](Vue de control.jpeg)
 ---
 
 ## 📊 Domaine d’application
