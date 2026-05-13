@@ -66,11 +66,8 @@ Le système est organisé en plusieurs modules :
 
 ## 📸 Aperçu du système
 
-Ajoutez ici des captures de votre interface :
-
-```markdown
-![Supervision](images/dashboard.png)
-```
+VUE_PROJET
+!(Vue_projet.png)
 
 ---
 
